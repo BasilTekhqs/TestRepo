@@ -1,0 +1,1 @@
+export const SET_TENANT_DETAILS = 'SET_TENANT_DETAILS';

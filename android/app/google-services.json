@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1032232973030",
+    "project_id": "sucasa-6c3e7",
+    "storage_bucket": "sucasa-6c3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032232973030:android:13fa76ca7a1a509bbfc127",
+        "android_client_info": {
+          "package_name": "com.sucasa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032232973030-1eondnedfrq98epdnar2llr5pduq9e65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sucasa.app",
+            "certificate_hash": "0614a85b3b052682c76674784f8161eeaf2396e3"
+          }
+        },
+        {
+          "client_id": "1032232973030-4ftjkj9ei5mljfmcl922b47b7rm6j5sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sucasa.app",
+            "certificate_hash": "79e9ec37c1f90a4e6a844c1acca75b3bb4bff1a2"
+          }
+        },
+        {
+          "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCwjseElB1IhZVcqFvrMR18CSbWItK9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032232973030-n6h5kpurmg3ioomj0tibg6pelr2afc0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sucasa.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032232973030:android:817ce4fc21c64223bfc127",
+        "android_client_info": {
+          "package_name": "com.sucasanative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032232973030-f0nd825rqsq7qega6n5pjmql2tdhnr1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sucasanative",
+            "certificate_hash": "79e9ec37c1f90a4e6a844c1acca75b3bb4bff1a2"
+          }
+        },
+        {
+          "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCwjseElB1IhZVcqFvrMR18CSbWItK9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032232973030-n6h5kpurmg3ioomj0tibg6pelr2afc0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sucasa.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "wkpProg219",
+        "database": "sucasa"
+    },
+    "secret": "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",
+    "stripe":{
+        "publishable":"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",
+        "secret":"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"
+    },
+    "emailFrom": "info@sucasa.uk",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+
+}
